@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.19](https://github.com/akoapo/language-servers/compare/lsp-codewhisperer-v0.0.18...lsp-codewhisperer/v0.0.19) (2025-01-02)
+
+
+### Bug Fixes
+
+* adding tests for covering the special characters case for auto trigger ([#680](https://github.com/akoapo/language-servers/issues/680)) ([873fdae](https://github.com/akoapo/language-servers/commit/873fdae39ad59f7d681b37cfc0b5c2d7062395b9))
+
 ## [0.0.18] - 2024-11-20
 
 ### Changed
